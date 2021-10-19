@@ -13,7 +13,7 @@
 
 <h3 align='center'>𝔂𝓸𝓸𝓷𝓳𝓲</h3>
 <p align='center'>
-  <a href="" target="_blank">
+  <a href="https://ijnooyah.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
   <a href="ijnooyah@gmail.com" target="_blank">
