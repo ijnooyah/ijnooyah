@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFBCD9&height=300&section=header&text=Hi%20there%20I'm%20yonnji!&fontSize=70&fontColor=38373e)
-<br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFBCD9&height=200&section=header&text=Hi%20there%20I'm%20yonnji!&fontSize=50&fontColor=38373e)
+
+<br><br><br><br>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
