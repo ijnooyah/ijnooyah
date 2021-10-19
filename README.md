@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFBCD9&height=200&section=header&text=Hi%20there%20I'm%20yonnji!&fontSize=40&fontColor=38373e)
 
-<br><br><br><br>
+<br><br>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,3 +35,9 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
+
+<br><br>
+<br><br>
+<br><br>
+
+***
