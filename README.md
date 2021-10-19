@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFBCD9&height=200&section=header&text=Hi%20there%20I'm%20yonnji!&fontSize=50&fontColor=38373e)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFBCD9&height=200&section=header&text=Hi%20there%20I'm%20yonnji!&fontSize=40&fontColor=38373e)
 
 <br><br><br><br>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ijnooyah&show_icons=true&theme=default&count_private=true&title_color=FFBCD9&icon_color=FFBCD9" style="width: 40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ijnooyah&show_icons=true&theme=default&count_private=true&title_color=FFBCD9&icon_color=FFBCD9" width="50%"/>
   </a>
 </p>
 
