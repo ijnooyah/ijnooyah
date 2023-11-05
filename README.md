@@ -2,11 +2,12 @@
 
 <br><br>
 
+<p align='center'>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ijnooyah&show_icons=true&theme=default&count_private=true&title_color=FFBCD9&icon_color=FFBCD9" />
   </a>
-
+</p>
 
 <br>
 
